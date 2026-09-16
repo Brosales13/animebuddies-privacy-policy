@@ -20,7 +20,7 @@ The Application collects limited technical and usage data for analytics purposes
 - Approximate, non-precise technical metadata (such as general app performance data)
 **We do not tie this data to your individual identity.** The Application does not collect or store information in a way that identifies a specific user. Analytics data is collected and used only in aggregated or de-identified form, and is not linked back to any individual person or device profile.
  
-The Application does not collect precise location information.
+The Application does not collect precise location information. But we do ask for it if you want to see weather on your widget that is all.
  
 ---
  
